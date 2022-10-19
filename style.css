@@ -7,6 +7,8 @@ body {
     flex-direction: column;
 }
 
+
+
 header, nav {
     display: flex;
     flex-direction: row;
@@ -42,10 +44,11 @@ blockquote p {
 }
 
 .hero-section {
+    
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    
+    align-items: center;
 }
 
 .hero-text {
