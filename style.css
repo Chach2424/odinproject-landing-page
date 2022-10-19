@@ -1,0 +1,32 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #faf0ca;
+}
+
+header, .hero-section, footer {
+    background-color: #0d3b66;
+    color: #faf0ca;
+}
+
+.quote-section {
+    background-color: #f4d35e;
+}
+
+blockquote p {
+    background-color: #faf0ca;
+}
