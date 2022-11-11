@@ -54,7 +54,11 @@ blockquote p {
 .hero-text {
     display: flex;
     flex-direction: column;
-    
+    width: 30%;
+}
+
+.hero-image img {
+    width: 50%;
 }
 
 .card-section {
